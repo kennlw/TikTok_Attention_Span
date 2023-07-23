@@ -7,7 +7,7 @@ import random
 querystring = {"max_cursor":"20"}
 
 headers = {
-	"X-RapidAPI-Key": "0ae27abe0cmsha7512d2059572d1p136488jsn01d8cf8cc1ea",
+	"X-RapidAPI-Key": "_",
 	"X-RapidAPI-Host": "tiktok-best-experience.p.rapidapi.com"
 }
 
